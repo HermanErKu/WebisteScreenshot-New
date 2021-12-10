@@ -22,23 +22,23 @@ This is a project that i started on a very long time ago. I was not nearly as go
 # How it works
 This is how the program works
 
-## [requirements.txt]()
+### [requirements.txt]()
 1. Shows all the python libraries you have to install
 PRO TIP : Save the file as ".bat" and double click to make it install for you
 
-## [screenshot.py]()
+### [screenshot.py]()
 1. It opens the webpage
 2. It takes a screenshot of the webpage
 3. A variable goes up by 1
 4. It names the file with the variable value
 5. The webpage refreshes
 
-## [sendToHTML.py]()
+### [sendToHTML.py]()
 1. Checks how many screenshots you have
 2. Empties the html file for old screenshots
 3. Adds all the new screenshot to the index.html file
 
-## [index.html]()
+### [index.html]()
 1. Takes info from  sendToHTML.py
 2. Shows the pictures
 
