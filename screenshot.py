@@ -33,6 +33,7 @@ def start():   #start
         dt_string = now.strftime("%d,%m,%Y_%H,%M,%S")  #todays date but better
 
         screenshot = pyautogui.screenshot()  #takes screenshot
+        
         screenshot.save(r'screenshots\screenshot'+ str(number) + '.png')  #saves the screenshot in folder
         
         print("Took a new screenshot")  #tell you it took the screenshot
