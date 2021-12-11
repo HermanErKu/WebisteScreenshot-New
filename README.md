@@ -22,6 +22,8 @@ This is a project that i started on a very long time ago. I was not nearly as go
 # How it works
 This is how the program works
 
+The explanations are very bad, but there might come an explanation video
+
 ### [requirements.txt](https://github.com/HermanErKu/WebisteScreenshot-New/blob/main/requirements.txt)
 1. Shows all the python libraries you have to install
 PRO TIP : Save the file as ".bat" and double click to make it install for you
