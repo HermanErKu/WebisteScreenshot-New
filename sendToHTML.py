@@ -12,7 +12,7 @@ def html():
     numberImage = 0
 
 
-    htmlfile = open("test.html", "w")
+    htmlfile = open("index.html", "w")
     htmlfile.write("<html>\n")
     htmlfile.write("<link rel="'"icon" type="image/x-icon" href="https://images-html.hermanerku.repl.co/Bakgrunn.ico">\n')
     
